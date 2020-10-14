@@ -1,0 +1,367 @@
+2020-10-12T18:40:50.003Z [grades-control-api] info: Api Started
+2020-10-12T18:41:39.453Z [grades-control-api] info: Api Started
+2020-10-12T18:41:56.143Z [grades-control-api] info: Api Started
+2020-10-12T18:42:27.608Z [grades-control-api] info: Api Started
+2020-10-12T18:42:55.409Z [grades-control-api] info: Api Started
+2020-10-12T18:44:23.144Z [grades-control-api] info: Api Started
+2020-10-12T18:45:25.855Z [grades-control-api] info: Api Started
+2020-10-12T18:45:58.865Z [grades-control-api] info: Api Started
+2020-10-12T18:47:48.867Z [grades-control-api] info: Api Started
+2020-10-12T19:00:37.405Z [grades-control-api] info: Api Started
+2020-10-12T19:02:34.808Z [grades-control-api] info: Api Started
+2020-10-12T19:04:13.607Z [grades-control-api] info: Api Started
+2020-10-12T19:04:21.044Z [grades-control-api] info: Api Started
+2020-10-12T19:04:23.530Z [grades-control-api] error: POST POST - Cannot read property 'student' of undefined
+2020-10-12T19:05:03.643Z [grades-control-api] info: Api Started
+2020-10-12T19:06:22.716Z [grades-control-api] info: Api Started
+2020-10-12T19:06:26.842Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:09:17.062Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:09:49.503Z [grades-control-api] info: Api Started
+2020-10-12T19:09:52.459Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:11:00.967Z [grades-control-api] info: Api Started
+2020-10-12T19:11:03.536Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:12:24.560Z [grades-control-api] info: Api Started
+2020-10-12T19:12:35.445Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:15:06.703Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:17:25.089Z [grades-control-api] info: Api Started
+2020-10-12T19:17:38.684Z [grades-control-api] info: Api Started
+2020-10-12T19:18:19.259Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:19:08.721Z [grades-control-api] info: Api Started
+2020-10-12T19:19:39.047Z [grades-control-api] info: Api Started
+2020-10-12T19:19:47.797Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:20:31.530Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:22:40.710Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:23:50.004Z [grades-control-api] info: Api Started
+2020-10-12T19:23:54.429Z [grades-control-api] error: Todos os campos são obrigatórios!
+2020-10-12T19:23:54.439Z [grades-control-api] error: POST POST - Todos os campos são obrigatórios!
+2020-10-12T19:24:17.412Z [grades-control-api] info: Api Started
+2020-10-12T19:24:23.015Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:27:31.294Z [grades-control-api] info: Api Started
+2020-10-12T19:27:34.985Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:27:55.437Z [grades-control-api] error: POST POST - Json não foi definido no body
+2020-10-12T19:28:31.012Z [grades-control-api] info: Api Started
+2020-10-12T19:28:39.897Z [grades-control-api] info: Api Started
+2020-10-12T19:29:58.912Z [grades-control-api] info: Api Started
+2020-10-12T19:30:15.662Z [grades-control-api] error: Todos os campos são obrigatórios!
+2020-10-12T19:30:15.679Z [grades-control-api] error: POST POST - Todos os campos são obrigatórios!
+2020-10-12T19:30:43.755Z [grades-control-api] info: Api Started
+2020-10-12T19:30:57.798Z [grades-control-api] info: Api Started
+2020-10-12T19:31:48.660Z [grades-control-api] info: Api Started
+2020-10-12T19:35:40.509Z [grades-control-api] info: Api Started
+2020-10-12T19:37:29.355Z [grades-control-api] info: Api Started
+2020-10-12T19:38:32.235Z [grades-control-api] info: Api Started
+2020-10-12T19:38:55.977Z [grades-control-api] info: Api Started
+2020-10-12T19:39:55.876Z [grades-control-api] info: Api Started
+2020-10-12T19:41:02.791Z [grades-control-api] info: Api Started
+2020-10-12T19:41:08.485Z [grades-control-api] error: POST POST - date is not defined
+2020-10-12T19:41:21.799Z [grades-control-api] info: Api Started
+2020-10-12T19:41:27.168Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:46:32.223Z [grades-control-api] info: Api Started
+2020-10-12T19:46:36.206Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:47:06.184Z [grades-control-api] info: Api Started
+2020-10-12T19:47:09.245Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:47:47.507Z [grades-control-api] info: Api Started
+2020-10-12T19:48:28.471Z [grades-control-api] info: Api Started
+2020-10-12T19:48:37.987Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:49:21.524Z [grades-control-api] info: Api Started
+2020-10-12T19:49:41.003Z [grades-control-api] info: Api Started
+2020-10-12T19:49:43.882Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:50:33.877Z [grades-control-api] info: Api Started
+2020-10-12T19:50:36.483Z [grades-control-api] error: POST POST - date is not a constructor
+2020-10-12T19:51:03.804Z [grades-control-api] info: Api Started
+2020-10-12T19:51:05.847Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:51:35.506Z [grades-control-api] info: Api Started
+2020-10-12T19:53:03.804Z [grades-control-api] info: Api Started
+2020-10-12T19:53:07.766Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:54:33.705Z [grades-control-api] info: Api Started
+2020-10-12T19:54:42.597Z [grades-control-api] info: Api Started
+2020-10-12T19:55:12.507Z [grades-control-api] info: Api Started
+2020-10-12T19:55:13.197Z [grades-control-api] error: POST POST - Cannot read property 'toLocaleString' of undefined
+2020-10-12T19:55:31.215Z [grades-control-api] info: Api Started
+2020-10-12T19:55:32.886Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:56:08.867Z [grades-control-api] info: Api Started
+2020-10-12T19:56:18.803Z [grades-control-api] info: Api Started
+2020-10-12T19:57:09.715Z [grades-control-api] info: Api Started
+2020-10-12T19:57:13.180Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:57:53.364Z [grades-control-api] info: Api Started
+2020-10-12T19:57:55.699Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:58:21.905Z [grades-control-api] info: Api Started
+2020-10-12T19:58:24.920Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T19:58:47.089Z [grades-control-api] info: Api Started
+2020-10-12T19:58:51.612Z [grades-control-api] error: POST POST - date is not defined
+2020-10-12T20:01:27.966Z [grades-control-api] info: Api Started
+2020-10-12T20:01:32.212Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:02:20.477Z [grades-control-api] info: Api Started
+2020-10-12T20:02:24.345Z [grades-control-api] error: POST POST - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:03:08.013Z [grades-control-api] info: Api Started
+2020-10-12T20:03:11.994Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:03:36.871Z [grades-control-api] info: Api Started
+2020-10-12T20:03:41.340Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:07:07.073Z [grades-control-api] info: Api Started
+2020-10-12T20:07:09.370Z [grades-control-api] error: POST /grades - Date.now(...).getDate is not a function
+2020-10-12T20:07:24.045Z [grades-control-api] info: Api Started
+2020-10-12T20:07:26.238Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:08:57.927Z [grades-control-api] info: Api Started
+2020-10-12T20:09:01.862Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:09:24.388Z [grades-control-api] info: Api Started
+2020-10-12T20:09:27.430Z [grades-control-api] error: POST /grades - date.getDate is not a function
+2020-10-12T20:10:14.869Z [grades-control-api] info: Api Started
+2020-10-12T20:10:18.391Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:10:43.436Z [grades-control-api] info: Api Started
+2020-10-12T20:10:46.539Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:11:00.723Z [grades-control-api] info: Api Started
+2020-10-12T20:11:09.076Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:12:12.390Z [grades-control-api] info: Api Started
+2020-10-12T20:12:19.124Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:13:08.125Z [grades-control-api] info: Api Started
+2020-10-12T20:13:10.517Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:13:54.801Z [grades-control-api] info: Api Started
+2020-10-12T20:13:56.493Z [grades-control-api] error: POST /grades - The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+2020-10-12T20:14:32.033Z [grades-control-api] info: Api Started
+2020-10-12T20:14:40.321Z [grades-control-api] info: Api Started
+2020-10-12T20:16:04.329Z [grades-control-api] info: Api Started
+2020-10-12T20:18:38.403Z [grades-control-api] info: Api Started
+2020-10-12T20:19:14.615Z [grades-control-api] info: Api Started
+2020-10-12T20:19:55.230Z [grades-control-api] info: Api Started
+2020-10-12T20:20:06.707Z [grades-control-api] info: Api Started
+2020-10-12T20:20:18.193Z [grades-control-api] info: Api Started
+2020-10-12T20:23:06.279Z [grades-control-api] info: Api Started
+2020-10-12T20:24:42.061Z [grades-control-api] info: Api Started
+2020-10-12T20:27:04.442Z [grades-control-api] info: Api Started
+2020-10-12T20:27:59.481Z [grades-control-api] info: Api Started
+2020-10-12T20:28:14.722Z [grades-control-api] info: Api Started
+2020-10-12T20:29:37.024Z [grades-control-api] info: Api Started
+2020-10-12T20:29:49.897Z [grades-control-api] error: PUT /grades - gradeList.findIndex is not a function
+2020-10-12T20:30:07.488Z [grades-control-api] info: Api Started
+2020-10-12T20:30:12.197Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T20:31:16.381Z [grades-control-api] info: Api Started
+2020-10-12T20:31:20.533Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T22:50:34.931Z [grades-control-api] info: Api Started
+2020-10-12T22:51:47.265Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T22:53:36.106Z [grades-control-api] info: Api Started
+2020-10-12T22:53:43.581Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T22:54:49.511Z [grades-control-api] info: Api Started
+2020-10-12T22:54:59.094Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T22:56:30.959Z [grades-control-api] info: Api Started
+2020-10-12T22:56:38.946Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T22:57:40.769Z [grades-control-api] info: Api Started
+2020-10-12T22:57:41.894Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T22:57:58.600Z [grades-control-api] info: Api Started
+2020-10-12T22:58:01.088Z [grades-control-api] error: PUT /grades - Cannot read property 'grades' of undefined
+2020-10-12T22:58:29.957Z [grades-control-api] info: Api Started
+2020-10-12T22:58:34.211Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T23:00:26.107Z [grades-control-api] info: Api Started
+2020-10-12T23:00:29.112Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T23:01:22.313Z [grades-control-api] info: Api Started
+2020-10-12T23:01:24.021Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T23:01:59.326Z [grades-control-api] info: Api Started
+2020-10-12T23:46:37.146Z [grades-control-api] info: Api Started
+2020-10-12T23:46:42.015Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T23:47:27.197Z [grades-control-api] info: Api Started
+2020-10-12T23:47:31.721Z [grades-control-api] error: PUT /grades - Registro Não Encontrado
+2020-10-12T23:53:19.254Z [grades-control-api] info: Api Started
+2020-10-12T23:53:21.452Z [grades-control-api] error: PUT /grades - gradeList.grades[index].push is not a function
+2020-10-12T23:56:36.247Z [grades-control-api] info: Api Started
+2020-10-12T23:57:36.449Z [grades-control-api] info: Api Started
+2020-10-13T00:08:06.174Z [grades-control-api] info: Api Started
+2020-10-13T00:08:23.180Z [grades-control-api] error: PUT /grades - gradeList.grades[index].push is not a function
+2020-10-13T00:09:25.389Z [grades-control-api] info: Api Started
+2020-10-13T00:11:22.725Z [grades-control-api] info: Api Started
+2020-10-13T00:11:28.141Z [grades-control-api] info: Api Started
+2020-10-13T00:13:13.210Z [grades-control-api] info: Api Started
+2020-10-13T00:13:21.124Z [grades-control-api] error: PUT /grades - gradeList.grades[index].push is not a function
+2020-10-13T00:14:32.009Z [grades-control-api] info: Api Started
+2020-10-13T00:15:12.028Z [grades-control-api] info: Api Started
+2020-10-13T00:16:40.805Z [grades-control-api] info: Api Started
+2020-10-13T00:20:01.828Z [grades-control-api] info: Api Started
+2020-10-13T00:20:08.482Z [grades-control-api] info: Api Started
+2020-10-13T00:20:40.992Z [grades-control-api] info: Api Started
+2020-10-13T00:22:04.186Z [grades-control-api] info: Api Started
+2020-10-13T00:22:20.416Z [grades-control-api] info: Api Started
+2020-10-13T00:23:14.306Z [grades-control-api] info: Api Started
+2020-10-13T00:23:49.232Z [grades-control-api] info: Api Started
+2020-10-13T00:47:42.532Z [grades-control-api] info: Api Started
+2020-10-13T00:49:54.199Z [grades-control-api] info: Api Started
+2020-10-13T00:50:26.232Z [grades-control-api] info: Api Started
+2020-10-13T00:51:05.607Z [grades-control-api] info: Api Started
+2020-10-13T00:51:59.530Z [grades-control-api] info: Api Started
+2020-10-13T00:56:23.974Z [grades-control-api] info: Api Started
+2020-10-13T00:57:53.562Z [grades-control-api] info: Api Started
+2020-10-13T00:58:33.952Z [grades-control-api] info: Api Started
+2020-10-13T00:58:37.219Z [grades-control-api] error: DELETE /grades - gradeList.filter is not a function
+2020-10-13T00:58:53.648Z [grades-control-api] info: Api Started
+2020-10-13T01:00:52.968Z [grades-control-api] info: Api Started
+2020-10-13T01:02:00.360Z [grades-control-api] info: Api Started
+2020-10-13T01:02:13.333Z [grades-control-api] info: Api Started
+2020-10-13T01:02:28.191Z [grades-control-api] info: Api Started
+2020-10-13T01:02:42.650Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:04:07.998Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:04:58.183Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:05:37.093Z [grades-control-api] info: Api Started
+2020-10-13T01:05:44.564Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:07:02.093Z [grades-control-api] info: Api Started
+2020-10-13T01:07:06.551Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:07:41.954Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:07:45.371Z [grades-control-api] info: Api Started
+2020-10-13T01:08:47.911Z [grades-control-api] info: Api Started
+2020-10-13T01:08:53.998Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:11:15.809Z [grades-control-api] info: Api Started
+2020-10-13T01:11:38.293Z [grades-control-api] info: Api Started
+2020-10-13T01:14:35.380Z [grades-control-api] info: Api Started
+2020-10-13T01:15:15.158Z [grades-control-api] info: Api Started
+2020-10-13T01:16:23.585Z [grades-control-api] info: Api Started
+2020-10-13T01:17:00.694Z [grades-control-api] info: Api Started
+2020-10-13T01:17:03.353Z [grades-control-api] info: Api Started
+2020-10-13T01:17:13.128Z [grades-control-api] info: Api Started
+2020-10-13T01:18:50.599Z [grades-control-api] info: Api Started
+2020-10-13T01:20:05.136Z [grades-control-api] info: Api Started
+2020-10-13T01:20:08.715Z [grades-control-api] error: DELETE /grades - Cannot read property 'filter' of undefined
+2020-10-13T01:21:18.235Z [grades-control-api] info: Api Started
+2020-10-13T01:21:28.064Z [grades-control-api] info: Api Started
+2020-10-13T01:22:13.973Z [grades-control-api] info: Api Started
+2020-10-13T01:22:35.063Z [grades-control-api] info: Api Started
+2020-10-13T01:23:01.250Z [grades-control-api] info: Api Started
+2020-10-13T01:24:16.733Z [grades-control-api] info: Api Started
+2020-10-13T01:24:36.758Z [grades-control-api] info: Api Started
+2020-10-13T01:26:49.303Z [grades-control-api] info: Api Started
+2020-10-13T01:27:08.752Z [grades-control-api] info: Api Started
+2020-10-13T01:30:17.679Z [grades-control-api] info: Api Started
+2020-10-13T01:30:22.157Z [grades-control-api] info: Api Started
+2020-10-13T01:30:43.570Z [grades-control-api] error: GET /grades - id is not defined
+2020-10-13T01:30:59.070Z [grades-control-api] info: Api Started
+2020-10-13T01:31:53.429Z [grades-control-api] info: Api Started
+2020-10-13T01:37:22.605Z [grades-control-api] info: Api Started
+2020-10-13T01:46:58.352Z [grades-control-api] info: Api Started
+2020-10-13T01:50:21.184Z [grades-control-api] info: Api Started
+2020-10-13T01:50:28.376Z [grades-control-api] info: Api Started
+2020-10-13T21:57:21.420Z [grades-control-api] info: Api Started
+2020-10-13T22:03:36.394Z [grades-control-api] info: Api Started
+2020-10-13T22:04:26.829Z [grades-control-api] info: Api Started
+2020-10-13T22:06:05.470Z [grades-control-api] info: Api Started
+2020-10-13T22:07:23.526Z [grades-control-api] info: Api Started
+2020-10-13T22:11:13.948Z [grades-control-api] info: Api Started
+2020-10-13T22:12:46.842Z [grades-control-api] info: Api Started
+2020-10-13T22:14:48.891Z [grades-control-api] info: Api Started
+2020-10-13T22:16:02.231Z [grades-control-api] info: Api Started
+2020-10-13T22:19:34.999Z [grades-control-api] info: Api Started
+2020-10-13T22:20:16.600Z [grades-control-api] info: Api Started
+2020-10-13T22:25:15.575Z [grades-control-api] info: Api Started
+2020-10-13T22:25:18.890Z [grades-control-api] error: GET /grades - gradeList.reduce is not a function
+2020-10-13T22:25:34.475Z [grades-control-api] info: Api Started
+2020-10-13T22:26:05.374Z [grades-control-api] info: Api Started
+2020-10-13T22:26:46.856Z [grades-control-api] info: Api Started
+2020-10-13T22:27:25.268Z [grades-control-api] info: Api Started
+2020-10-13T22:27:44.638Z [grades-control-api] info: Api Started
+2020-10-13T22:27:59.882Z [grades-control-api] info: Api Started
+2020-10-13T22:29:27.060Z [grades-control-api] info: Api Started
+2020-10-13T22:30:01.360Z [grades-control-api] info: Api Started
+2020-10-13T22:30:22.447Z [grades-control-api] info: Api Started
+2020-10-13T22:31:06.557Z [grades-control-api] info: Api Started
+2020-10-13T22:31:25.341Z [grades-control-api] info: Api Started
+2020-10-13T22:31:47.760Z [grades-control-api] info: Api Started
+2020-10-13T22:33:28.519Z [grades-control-api] info: Api Started
+2020-10-13T22:35:34.113Z [grades-control-api] info: Api Started
+2020-10-13T22:38:43.731Z [grades-control-api] info: Api Started
+2020-10-13T22:39:36.082Z [grades-control-api] info: Api Started
+2020-10-13T22:39:41.977Z [grades-control-api] error: GET /grades - Invalid status code: 5
+2020-10-13T22:41:09.815Z [grades-control-api] info: Api Started
+2020-10-13T22:41:48.924Z [grades-control-api] info: Api Started
+2020-10-13T22:42:33.257Z [grades-control-api] info: Api Started
+2020-10-13T22:43:31.295Z [grades-control-api] info: Api Started
+2020-10-13T22:47:18.090Z [grades-control-api] info: Api Started
+2020-10-13T22:48:07.729Z [grades-control-api] info: Api Started
+2020-10-13T22:48:30.420Z [grades-control-api] info: Api Started
+2020-10-13T22:48:47.840Z [grades-control-api] info: Api Started
+2020-10-13T22:49:26.188Z [grades-control-api] info: Api Started
+2020-10-13T22:50:11.492Z [grades-control-api] info: Api Started
+2020-10-13T22:50:43.439Z [grades-control-api] info: Api Started
+2020-10-13T22:51:48.611Z [grades-control-api] info: Api Started
+2020-10-13T22:52:50.001Z [grades-control-api] info: Api Started
+2020-10-13T22:53:04.359Z [grades-control-api] info: Api Started
+2020-10-13T22:53:51.261Z [grades-control-api] info: Api Started
+2020-10-13T22:53:54.396Z [grades-control-api] error: GET /grades - elemment is not defined
+2020-10-13T22:54:14.452Z [grades-control-api] info: Api Started
+2020-10-13T22:54:44.349Z [grades-control-api] info: Api Started
+2020-10-13T22:54:49.296Z [grades-control-api] error: GET /grades - typof is not defined
+2020-10-13T22:55:03.146Z [grades-control-api] info: Api Started
+2020-10-13T22:56:30.840Z [grades-control-api] info: Api Started
+2020-10-13T22:57:05.158Z [grades-control-api] info: Api Started
+2020-10-13T22:57:32.870Z [grades-control-api] info: Api Started
+2020-10-13T22:58:02.604Z [grades-control-api] info: Api Started
+2020-10-13T22:58:42.058Z [grades-control-api] info: Api Started
+2020-10-13T22:59:00.642Z [grades-control-api] info: Api Started
+2020-10-13T23:00:44.723Z [grades-control-api] info: Api Started
+2020-10-13T23:01:09.958Z [grades-control-api] info: Api Started
+2020-10-13T23:22:43.327Z [grades-control-api] info: Api Started
+2020-10-13T23:22:47.090Z [grades-control-api] error: GET /grades - element is not defined
+2020-10-13T23:23:30.805Z [grades-control-api] info: Api Started
+2020-10-13T23:23:31.005Z [grades-control-api] error: GET /grades - Invalid status code: 0
+2020-10-13T23:24:43.885Z [grades-control-api] info: Api Started
+2020-10-13T23:24:46.822Z [grades-control-api] error: GET /grades - Invalid status code: 0
+2020-10-13T23:26:55.434Z [grades-control-api] info: Api Started
+2020-10-13T23:26:58.094Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:28:22.591Z [grades-control-api] info: Api Started
+2020-10-13T23:28:22.732Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:28:52.175Z [grades-control-api] info: Api Started
+2020-10-13T23:28:56.484Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:30:06.338Z [grades-control-api] info: Api Started
+2020-10-13T23:30:43.832Z [grades-control-api] info: Api Started
+2020-10-13T23:32:20.907Z [grades-control-api] info: Api Started
+2020-10-13T23:32:22.444Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:34:03.028Z [grades-control-api] info: Api Started
+2020-10-13T23:34:29.295Z [grades-control-api] info: Api Started
+2020-10-13T23:34:35.310Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:45:45.465Z [grades-control-api] info: Api Started
+2020-10-13T23:45:50.925Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:46:27.379Z [grades-control-api] info: Api Started
+2020-10-13T23:46:27.440Z [grades-control-api] error: GET /grades - grades is not defined
+2020-10-13T23:47:01.367Z [grades-control-api] info: Api Started
+2020-10-13T23:52:16.354Z [grades-control-api] info: Api Started
+2020-10-13T23:53:11.327Z [grades-control-api] info: Api Started
+2020-10-13T23:53:12.964Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:53:40.060Z [grades-control-api] info: Api Started
+2020-10-13T23:53:44.121Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:56:36.905Z [grades-control-api] info: Api Started
+2020-10-13T23:58:38.597Z [grades-control-api] info: Api Started
+2020-10-13T23:59:07.088Z [grades-control-api] info: Api Started
+2020-10-13T23:59:10.138Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-13T23:59:33.110Z [grades-control-api] info: Api Started
+2020-10-14T00:00:41.525Z [grades-control-api] error: GET /grades - Invalid status code: 41
+2020-10-14T00:02:43.151Z [grades-control-api] info: Api Started
+2020-10-14T00:03:33.634Z [grades-control-api] info: Api Started
+2020-10-14T00:17:06.765Z [grades-control-api] info: Api Started
+2020-10-14T00:28:24.822Z [grades-control-api] info: Api Started
+2020-10-14T00:29:58.036Z [grades-control-api] info: Api Started
+2020-10-14T00:33:15.863Z [grades-control-api] info: Api Started
+2020-10-14T00:35:37.397Z [grades-control-api] info: Api Started
+2020-10-14T00:35:55.967Z [grades-control-api] info: Api Started
+2020-10-14T00:37:42.539Z [grades-control-api] info: Api Started
+2020-10-14T00:39:05.535Z [grades-control-api] info: Api Started
+2020-10-14T00:39:46.415Z [grades-control-api] info: Api Started
+2020-10-14T00:41:01.786Z [grades-control-api] info: Api Started
+2020-10-14T00:41:25.690Z [grades-control-api] info: Api Started
+2020-10-14T00:41:32.673Z [grades-control-api] info: Api Started
+2020-10-14T00:42:23.645Z [grades-control-api] info: Api Started
+2020-10-14T00:43:50.783Z [grades-control-api] info: Api Started
+2020-10-14T00:45:54.683Z [grades-control-api] info: Api Started
+2020-10-14T00:46:42.545Z [grades-control-api] info: Api Started
+2020-10-14T00:48:40.036Z [grades-control-api] info: Api Started
+2020-10-14T00:49:16.555Z [grades-control-api] info: Api Started
+2020-10-14T00:50:58.952Z [grades-control-api] info: Api Started
+2020-10-14T00:55:09.584Z [grades-control-api] info: Api Started
+2020-10-14T00:56:13.826Z [grades-control-api] info: Api Started
+2020-10-14T00:59:12.822Z [grades-control-api] info: Api Started
+2020-10-14T00:59:38.869Z [grades-control-api] info: Api Started
+2020-10-14T00:59:43.496Z [grades-control-api] error: GET /grades - media is not defined
+2020-10-14T01:00:55.235Z [grades-control-api] info: Api Started
+2020-10-14T01:01:10.778Z [grades-control-api] info: Api Started
+2020-10-14T01:01:23.857Z [grades-control-api] error: GET /grades - media is not defined
+2020-10-14T01:02:08.401Z [grades-control-api] info: Api Started
+2020-10-14T01:02:30.849Z [grades-control-api] info: Api Started
+2020-10-14T01:02:52.733Z [grades-control-api] info: Api Started
+2020-10-14T01:03:27.380Z [grades-control-api] info: Api Started
+2020-10-14T01:03:46.058Z [grades-control-api] info: Api Started
+2020-10-14T01:04:54.181Z [grades-control-api] info: Api Started
+2020-10-14T01:09:14.363Z [grades-control-api] info: Api Started
+2020-10-14T01:12:14.459Z [grades-control-api] info: Api Started
+2020-10-14T01:13:20.996Z [grades-control-api] info: Api Started
